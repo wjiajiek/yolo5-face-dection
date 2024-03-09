@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>yolo-305.jpg</filename>
+	<path>C:\pyworkplace\VOCdevkit\VOC2007\JPEGImages\yolo-305.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>two_wheeler</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>395</xmin>
+			<ymin>499</ymin>
+			<xmax>604</xmax>
+			<ymax>856</ymax>
+		</bndbox>
+	</object>
+</annotation>
